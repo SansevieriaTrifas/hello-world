@@ -1,2 +1,6 @@
 # hello-world
-short description
+#include <stdio.h>
+int main(void)
+{
+  printf("Hello World!\n");
+}  
